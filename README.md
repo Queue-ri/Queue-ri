@@ -1,5 +1,10 @@
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Queue-ri&theme=material-palenight&hide_border=true&border_radius=16)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://leetcode.com/Queue_ri/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FQueue_ri&logo=leetcode&logoColor=yellow" alt="LeetCode Badge" /></a>
+</p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Queue-ri&theme=material-palenight&hide_border=true&border_radius=16" alt="GitHub Streak" width="390px" height="auto" /> <a href="https://velog.io/@qriosity"><img src="https://velog-readme-stats.vercel.app/api/list?name=qriosity" alt="Velog Stats" width="430px" height="auto" /></a>
+</p>
 
 ```markdown
 # About Queue-ri
