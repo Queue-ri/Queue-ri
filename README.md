@@ -19,7 +19,11 @@
 ## Problem Solvings
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/queue_ri?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="430px" height="auto" /> <a href="https://leetcode.com/Queue_ri/"><img src="https://leetcode-badge-showcase.vercel.app/api?username=queue_ri&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" width="370px" height="auto" /></a>
+<a href="https://leetcode.com/Queue_ri/"><img src="https://leetcard.jacoblin.cool/queue_ri?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="430px" height="auto" /></a>
+</p>
+<p align="center">
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=queue_ri&theme=github-dark&filter=annual&border=no-border&animated=true" alt="LeetCode Badges" width="300px" height="auto" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=queue_ri&theme=github-dark&filter=daily&border=no-border&animated=true" alt="LeetCode Badges" width="300px" height="auto" />
 </p>
 
 ## My cute little 'hello-world.c'
