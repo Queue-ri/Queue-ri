@@ -19,7 +19,8 @@
 ## Problem Solvings
 
 <p align="center">
-<a href="https://leetcode.com/Queue_ri/"><img src="https://leetcard.jacoblin.cool/queue_ri?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="430px" height="auto" /></a>
+<a href="https://leetcode.com/Queue_ri/"><img src="https://leetcard.jacoblin.cool/queue_ri?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="360px" height="auto" /></a>
+<a href="https://solved.ac/en/profile/queue_ri"><img src="https://api.solve-nyang.com/compose/queue_ri" width="460px" height="auto"/></a>
 </p>
 <p align="center">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=queue_ri&theme=github-dark&filter=annual&border=no-border&animated=true" alt="LeetCode Badges" width="300px" height="auto" />
