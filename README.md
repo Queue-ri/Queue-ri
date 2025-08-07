@@ -16,8 +16,8 @@
 <a href="https://solved.ac/en/profile/queue_ri"><img src="https://api.solve-nyang.com/compose/queue_ri" width="460px" height="auto"/></a>
 </p>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/936f6fdd-d1ed-4916-b8af-194a4a819977" alt="LeetCode Badges" width="300px" height="auto" />
-<img src="https://github.com/user-attachments/assets/bf5897cd-623a-45e8-8f2e-41221f6a615e" alt="LeetCode Badges" width="300px" height="auto" />
+<img src="https://velog.velcdn.com/images/qriosity/post/f48d7d02-e77c-44e7-8258-b5d10080486a/image.svg" alt="LeetCode Badges" width="300px" height="auto" />
+<img src="https://velog.velcdn.com/images/qriosity/post/7d923942-4578-4ad1-a132-c7369a8dbc99/image.svg" alt="LeetCode Badges" width="300px" height="auto" />
 </p>
 
 ## My cute little 'hello-world.c'
