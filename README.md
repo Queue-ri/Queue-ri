@@ -6,8 +6,15 @@
 
 ## 💬 Before You Contact Me
 
-📢 Please open an issue rather than email-ing me if you have any question. 😉<br />
-📢 Non-archived repos are still under maintenance. (I'm just busy)
+<p align="center">
+<img src="https://velog.velcdn.com/images/qriosity/post/8a73698a-d02e-4103-bf1b-e7868847c1a5/image.png" width="250px" height="auto">
+</p>
+
+<p align="center">
+Please open an issue rather than email-ing me if you have any question. 😉<br />
+Non-archived repos are still under maintenance. (I'm just busy)
+</p>
+
 
 ## Problem Solvings
 
