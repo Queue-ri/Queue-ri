@@ -1,5 +1,7 @@
 [![Message](https://github.com/Queue-ri/Queue-ri/blob/main/chat.svg)](https://qriosity.dev)
 
+## <img src="https://em-content.zobj.net/source/microsoft/309/shooting-star_1f320.png" align="right" width="70px" height="auto"> ✨ What I’m Up To
+
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Queue-ri&theme=material-palenight&hide_border=true&border_radius=16" alt="GitHub Streak" width="390px" height="auto" /> <a href="https://velog.io/@qriosity"><img src="https://velog-readme-stats.vercel.app/api/list?name=qriosity" alt="Velog Stats" width="430px" height="auto" /></a>
 </p>
