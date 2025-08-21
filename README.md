@@ -2,9 +2,13 @@
 
 ## <img src="https://em-content.zobj.net/source/microsoft/309/shooting-star_1f320.png" align="right" width="70px" height="auto"> ✨ What I’m Up To
 
+<br>
+
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Queue-ri&theme=material-palenight&hide_border=true&border_radius=16" alt="GitHub Streak" width="390px" height="auto" /> <a href="https://velog.io/@qriosity"><img src="https://velog-readme-stats.vercel.app/api/list?name=qriosity" alt="Velog Stats" width="430px" height="auto" /></a>
 </p>
+
+<br>
 
 ## 💬 Before You Contact Me
 
@@ -12,11 +16,8 @@
 <img src="https://velog.velcdn.com/images/qriosity/post/8a73698a-d02e-4103-bf1b-e7868847c1a5/image.png" width="250px" height="auto">
 </p>
 
-<p align="center">
-Please open an issue rather than email-ing me if you have any question. 😉<br />
-Non-archived repos are still under maintenance. (I'm just busy)
-</p>
-
+<p align="center"><b>Please open an issue</b> rather than email-ing me if you have any question. 😉</p>
+<p align="center">Non-archived repos are <b>still under maintenance.</b> (I'm just busy)</p>
 
 ## Problem Solvings
 
