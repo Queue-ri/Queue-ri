@@ -49,7 +49,9 @@
 
 <p align="center">
 <a href="https://leetcode.com/Queue_ri/"><img src="https://leetcard.jacoblin.cool/queue_ri?theme=dark&font=ABeeZee&ext=heatmap" alt="LeetCode Stats" width="360px" height="auto" /></a>
-<a href="https://solved.ac/en/profile/queue_ri"><img src="https://api.solve-nyang.com/compose/queue_ri" width="460px" height="auto"/></a>
+<a href="https://til.qriosity.dev/featured/ps/java-snippets-for-ps"><img src="https://github.com/Queue-ri/TIL/blob/main/badge/ps-badge.svg" width="460px" height="auto"/></a>
+<!-- 솔브냥 뱃지 터짐 -->
+<!-- <a href="https://solved.ac/en/profile/queue_ri"><img src="https://api.solve-nyang.com/compose/queue_ri" width="460px" height="auto"/></a> -->
 </p>
 <p align="center">
 <img src="https://velog.velcdn.com/images/qriosity/post/f48d7d02-e77c-44e7-8258-b5d10080486a/image.svg" alt="LeetCode Badges" width="300px" height="auto" />
