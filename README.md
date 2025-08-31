@@ -33,13 +33,9 @@
 </p>
 
 <p align="center">
-<a href="mailto:qriosity.dev@gmail.com">
-<img src="https://img.shields.io/badge/gmail-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
+<a href="mailto:qriosity.dev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23323330.svg?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 &nbsp;
-<a href="https://open.kakao.com/me/queue">
-<img src="https://img.shields.io/badge/kakaotalk-%23323330.svg?style=for-the-badge&logo=kakaotalk&logoColor=FFCD00">
-</a>
+<a href="https://open.kakao.com/me/queue"><img src="https://img.shields.io/badge/kakaotalk-%23323330.svg?style=for-the-badge&logo=kakaotalk&logoColor=FFCD00"></a>
 </p>
 
 <p align="center"><b>Please open an issue</b> rather than email-ing me if you have any question. 😉</p>
