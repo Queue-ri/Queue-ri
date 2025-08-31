@@ -56,6 +56,12 @@
 
 ## My cute little 'hello-world.c'
 
+I wrote this as a newbie, inspired by an entry in a C programming contest.
+
+I mainly used MSVC back then, so the code is MSVC-only.
+
+Check it out in the Compiler Explorer below :3
+
 [⚡ Compiler Explorer](https://godbolt.org/z/EoWTTY4qb)
 
 ```c
