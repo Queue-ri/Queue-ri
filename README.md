@@ -50,8 +50,8 @@
 <!-- <a href="https://solved.ac/en/profile/queue_ri"><img src="https://api.solve-nyang.com/compose/queue_ri" width="460px" height="auto"/></a> -->
 </p>
 <p align="center">
-<img src="https://velog.velcdn.com/images/qriosity/post/f48d7d02-e77c-44e7-8258-b5d10080486a/image.svg" alt="LeetCode Annual Badges" width="340px" height="auto" />
-<img src="https://velog.velcdn.com/images/qriosity/post/9eb7bd77-b652-4546-b9c5-12b2fbf3d37c/image.svg" alt="LeetCode Daily Badges" width="450px" height="auto" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Queue_ri&theme=github-dark&filter=annual&border=no-border&animated=true" alt="LeetCode Annual Badges" width="350px" height="auto" />
+<img src="https://velog.velcdn.com/images/qriosity/post/9eb7bd77-b652-4546-b9c5-12b2fbf3d37c/image.svg" alt="LeetCode Daily Badges" width="440px" height="auto" />
 </p>
 
 ## My cute little 'hello-world.c'
