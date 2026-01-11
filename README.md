@@ -7,6 +7,12 @@
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Queue-ri&theme=material-palenight&hide_border=true&border_radius=16" alt="GitHub Streak" width="390px" height="auto" /> <a href="https://velog.io/@qriosity"><img src="https://velog-readme-stats.vercel.app/api/list?name=qriosity" alt="Velog Stats" width="430px" height="auto" /></a>
 </p>
+
+> [!IMPORTANT]
+> **I'VE BECOME MUCH BUSIER IN 2026**
+> - [qriosity.dev](https://qriosity.dev/) is currently on hiatus (26.01~). Pls refer to [my TIL](https://til.qriosity.dev/) instead! 😺
+> - Optimizing life for learning, not for updates.
+
 <br>
 
 <p align="center"><b>Core Tech Stack</b></p>
